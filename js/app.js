@@ -1,5 +1,5 @@
 App = Ember.Application.create();
-
+App.model = ['red', 'green', 'blue'];
 // App.Router.map(function() {
 //   // put your routes here
 // });
