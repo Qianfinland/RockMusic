@@ -1,6 +1,6 @@
 App = Ember.Application.create();
 App.model = ['red', 'green', 'blue'];
-
+App.name = "Kasperi's Bunny Land";
 // App.Router.map(function() {
 //   // put your routes here
 // });
